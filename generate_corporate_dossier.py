@@ -89,11 +89,11 @@ html_content = f"""<!DOCTYPE html>
         }}
 
         .cover-top-bar {{
-            padding: 18mm 20mm 10mm 20mm;
+            padding: 24mm 20mm 18mm 20mm;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.15);
         }}
 
         .cover-logo-capsule {{
@@ -126,7 +126,7 @@ html_content = f"""<!DOCTYPE html>
         }}
 
         .cover-center-block {{
-            padding: 12mm 20mm 10mm 20mm;
+            padding: 18mm 20mm 16mm 20mm;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -246,9 +246,9 @@ html_content = f"""<!DOCTYPE html>
             display: flex;
             justify-content: space-between;
             align-items: center;
-            border-bottom: 1.5px solid var(--border-light);
-            padding-bottom: 10px;
-            margin-bottom: 16px;
+            border-bottom: 1.5px solid #cbd5e1;
+            padding-bottom: 14px;
+            margin-bottom: 34px;
             flex-shrink: 0;
         }}
 
@@ -342,7 +342,7 @@ html_content = f"""<!DOCTYPE html>
             font-size: 12px;
             color: var(--slate-secondary);
             line-height: 1.5;
-            margin-bottom: 16px;
+            margin-bottom: 22px;
             text-wrap: balance;
         }}
 
