@@ -1012,7 +1012,7 @@ html_content = f"""<!DOCTYPE html>
             </div>
 
             <div style="background: var(--bg-card); border-left: 3px solid var(--teal-brand); padding: 12px 16px; border-radius: 4px; font-size: 11px; color: var(--slate-secondary); line-height: 1.5;">
-                <strong>Certificação de Conformidade:</strong> O Spa do Colchão opera com espumas seladas e certificadas pelo INMETRO, tecidos tratados com barreiras antimicrobianas ativas e estrutura de reflorestamento com secagem em estufa.
+                <strong>Certificação de Conformidade:</strong> O Spa do Colchão opera com espumas seladas e certificadas pelo INMETRO, tecidos de alta resistência hoteleira e estrutura de madeira maciça de reflorestamento com secagem adequada.
             </div>
         </div>
 
@@ -1054,7 +1054,7 @@ html_content = f"""<!DOCTYPE html>
             </p>
 
             <p class="letter-text">
-                A aquisição de colchões novos no mercado hoteleiro impõe um desembolso vultoso de capital e custos logísticos elevados. Nossa solução de reengenharia industrial desmonta os leitos em fábrica, revisa e alinha termicamente as molas, substitui integralmente os blocos de espuma por espumas novas de alta densidade (D-33 / D-45) e reveste cada conjunto com novo tecido Jacquard matelassado de padrão superior, munido de barreiras ativas antiácaro, antimofo e retardante a chamas.
+                A aquisição de colchões novos no mercado hoteleiro impõe um desembolso vultoso de capital e custos logísticos elevados. Nossa solução de reengenharia industrial desmonta os leitos em fábrica, revisa a estrutura de molas, substitui integralmente os blocos de espuma por espumas novas de alta densidade (D-33 / D-45) e reveste cada conjunto com novo tecido Jacquard matelassado de padrão superior.
             </p>
 
             <p class="letter-text">
@@ -1131,7 +1131,7 @@ html_content = f"""<!DOCTYPE html>
                     <div class="spec-content">
                         <h4>Reforma Completa Colchão Solteirão (0,93 × 2,03 m) — 1 Lado (Uniface)</h4>
                         <p>
-                            Substituição integral do revestimento externo por novo tecido Jacquard matelassado com fibra siliconada. Remoção de espumas fatigadas e aplicação de novo bloco selado de espuma de conforto D-33/D-45. Alinhamento térmico das molas, reforço perimetral de borda e isolante de base em polipropileno agulhado de alta gramatura.
+                            Substituição integral do revestimento externo por novo tecido Jacquard matelassado com fibra siliconada. Remoção de espumas fatigadas e aplicação de novo bloco selado de espuma de conforto D-33/D-45. Revisão e reforço do molejo, reforço perimetral de borda e isolante de base em polipropileno agulhado de alta gramatura.
                         </p>
                     </div>
                     <div class="spec-meta">
@@ -1184,10 +1184,6 @@ html_content = f"""<!DOCTYPE html>
                         <div class="spec-meta-tag" style="color: var(--gold-accent);">Conforto King</div>
                     </div>
                 </div>
-            </div>
-
-            <div style="background: var(--bg-card); border-left: 3px solid var(--teal-brand); padding: 10px 14px; border-radius: 4px; font-size: 10.5px; color: var(--slate-secondary); margin-top: 14px;">
-                <strong>Tratamentos Tecnológicos Ativos:</strong> Todos os materiais têxteis e espumas utilizados possuem laudo de atoxidade, proteção antimicrobiana (íons de prata contra ácaros e fungos) e certificação de retardância à propagação de chamas conforme normas da ABNT.
             </div>
         </div>
 
@@ -1451,8 +1447,8 @@ html_content = f"""<!DOCTYPE html>
                 </div>
                 <div class="flow-step">
                     <div class="flow-step-num">ETAPA 02</div>
-                    <div class="flow-step-title">Higienização & Reparo</div>
-                    <div class="flow-step-desc">Tratamento antiácaro, revisão de molas e travamento das armações dos boxes na fábrica.</div>
+                    <div class="flow-step-title">Desmontagem & Reparo</div>
+                    <div class="flow-step-desc">Revisão estrutural das molas e travamento das armações dos boxes na fábrica.</div>
                 </div>
                 <div class="flow-step">
                     <div class="flow-step-num">ETAPA 03</div>
